@@ -12,7 +12,6 @@
 //double multipication = x * y;
 //double division = x / y;
 
-
 //Console.WriteLine("addition result: " + addition);
 //Console.WriteLine("subtraction result: " + subtraction);
 //Console.WriteLine("multipication result: " + multipication);
@@ -25,7 +24,6 @@
 
 Console.Write("Please enter your age: ");
 int age = int.Parse(Console.ReadLine());
-
 
 if (age >= 18)
 {
