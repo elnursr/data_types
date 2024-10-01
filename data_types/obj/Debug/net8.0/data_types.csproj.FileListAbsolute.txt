@@ -1,0 +1,14 @@
+C:\Users\x_pc\source\repos\data_types\data_types\bin\Debug\net8.0\data_types.exe
+C:\Users\x_pc\source\repos\data_types\data_types\bin\Debug\net8.0\data_types.deps.json
+C:\Users\x_pc\source\repos\data_types\data_types\bin\Debug\net8.0\data_types.runtimeconfig.json
+C:\Users\x_pc\source\repos\data_types\data_types\bin\Debug\net8.0\data_types.dll
+C:\Users\x_pc\source\repos\data_types\data_types\bin\Debug\net8.0\data_types.pdb
+C:\Users\x_pc\source\repos\data_types\data_types\obj\Debug\net8.0\data_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\source\repos\data_types\data_types\obj\Debug\net8.0\data_types.AssemblyInfoInputs.cache
+C:\Users\x_pc\source\repos\data_types\data_types\obj\Debug\net8.0\data_types.AssemblyInfo.cs
+C:\Users\x_pc\source\repos\data_types\data_types\obj\Debug\net8.0\data_types.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\source\repos\data_types\data_types\obj\Debug\net8.0\data_types.dll
+C:\Users\x_pc\source\repos\data_types\data_types\obj\Debug\net8.0\refint\data_types.dll
+C:\Users\x_pc\source\repos\data_types\data_types\obj\Debug\net8.0\data_types.pdb
+C:\Users\x_pc\source\repos\data_types\data_types\obj\Debug\net8.0\data_types.genruntimeconfig.cache
+C:\Users\x_pc\source\repos\data_types\data_types\obj\Debug\net8.0\ref\data_types.dll
